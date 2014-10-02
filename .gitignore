@@ -1,0 +1,17 @@
+*.orig
+
+# Mac Finder files
+.DS_Store
+._.DS_Store
+
+# vim
+*.swp
+
+# Dependency detritus
+node_modules
+
+# WebStorm
+.idea/
+
+# Compiled webpack bundles
+bundle.js
