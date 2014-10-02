@@ -6,6 +6,7 @@ var SubComponent = React.createClass({
     return (
       <div>
         <h1>SUB COMPONENT!</h1>
+        <h2>Message : {this.props.message}</h2>
       </div>
     );
   }
